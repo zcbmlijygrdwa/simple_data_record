@@ -1,0 +1,3 @@
+/home/zhenyu/simple_data_record/build/CMakeFiles/edit_cache.dir
+/home/zhenyu/simple_data_record/build/CMakeFiles/record.dir
+/home/zhenyu/simple_data_record/build/CMakeFiles/rebuild_cache.dir
